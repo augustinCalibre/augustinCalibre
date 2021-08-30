@@ -9,11 +9,11 @@
 </p>
 <div size='20px'> Hi! My name is Jad Yahya. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=dizerx&label=Profile%20views&color=0e75b6&style=flat" alt="dizerx" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/DizerX?label=Followers&style=social">
-  <img src="https://img.shields.io/github/stars/DizerX?label=Stars" alt="Total Stars"> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=18jad&label=Profile%20views&color=0e75b6&style=flat" alt="dizerx" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/18jad?label=Followers&style=social">
+  <img src="https://img.shields.io/github/stars/18jad?label=Stars" alt="Total Stars"> </p>
     
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dizerx" alt="dizerx" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=18jad" alt="18jad" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/2jad0" target="blank"><img src="https://img.shields.io/twitter/follow/2jad0?logo=twitter&style=for-the-badge" alt="2jad0" /></a> </p>
 
@@ -52,7 +52,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.twitter.com/2jad0'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/DizerX'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.github.com/18jad'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
   <a href="https://codepen.io/jadx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jadx" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15927691" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jadd" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100070689440021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dizer dev" height="30" width="40" /></a>
@@ -70,13 +70,13 @@
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=DizerX&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=18jad&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DizerX&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18jad&theme=tokyonight" />
 </a>
   <h2>Stats</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DizerX&&theme=tokyonight" alt="dizerx" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=18jad&&theme=tokyonight" alt="dizerx" /></p>
 
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
