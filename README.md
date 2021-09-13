@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=augustinCalibre" alt="18jad" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/2jad0" target="blank"><img src="https://img.shields.io/twitter/follow/2jad0?logo=twitter&style=for-the-badge" alt="2jad0" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Grahaugustin" target="blank"><img src="https://img.shields.io/twitter/follow/2jad0?logo=twitter&style=for-the-badge" alt="2jad0" /></a> </p>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
