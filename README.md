@@ -62,28 +62,20 @@
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Dizer&compact=True"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=augustinCalibre&compact=True"/>
 </a>
 <br>
 
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=18jad&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18jad&theme=tokyonight" />
-</a>
-  <h2>Stats</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=18jad&&theme=tokyonight" alt="dizerx" /></p>
-
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=augustinCalibre&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=augustinCalibre&langs_count=5&theme=tokyonight)]()
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=augustinCalibre&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=augustinCalibre&langs_count=5&theme=tokyonight)]()
+
 
 <br>
