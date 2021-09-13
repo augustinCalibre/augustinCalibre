@@ -24,7 +24,7 @@
 <div align="center">
  🔭 I’m currently working on My Portfolio website!
 
- 🌱 I’m currently learning C++  
+ 🌱 I’m currently learning Django
 
  👯 I’m looking to collaborate on Web projects, web apps! 
 
@@ -57,7 +57,7 @@
 <a href="https://stackoverflow.com/users/15927691" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jadd" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100070689440021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dizer dev" height="30" width="40" /></a>
 <a href="https://instagram.com/18jad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="18jad" height="30" width="40" /></a><br>
-  📫 Reach me at <a href="mailto:jadoyahya@gmail.com">jadoyahya@gmail.com</a> OR <a href="mailto:dizerdev@gmail.com">dizerdev@gmail.com</a>
+  📫 Reach me at <a href="mailto:jadoyahya@gmail.com">grahaugustin@gmail.com</a> OR <a href="mailto:dizerdev@gmail.com">augustingrah2@gmail.com</a>
 
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px> </h2>
