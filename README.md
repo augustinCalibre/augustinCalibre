@@ -9,11 +9,11 @@
 </p>
 <div size='20px'> Hi! My name is AugustinGRAH. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=18jad&label=Profile%20views&color=0e75b6&style=flat" alt="dizerx" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/18jad?label=Followers&style=social">
-  <img src="https://img.shields.io/github/stars/18jad?label=Stars" alt="Total Stars"> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=augustinCalibre&label=Profile%20views&color=0e75b6&style=flat" alt="dizerx" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/18jad?label=Followers&style=social">
+  <img src="https://img.shields.io/github/stars/augustinCalibre?label=Stars" alt="Total Stars"> </p>
     
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=18jad" alt="18jad" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=augustinCalibre" alt="18jad" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/2jad0" target="blank"><img src="https://img.shields.io/twitter/follow/2jad0?logo=twitter&style=for-the-badge" alt="2jad0" /></a> </p>
 
