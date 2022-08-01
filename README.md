@@ -8,7 +8,7 @@
 
     
 
-<img width="100%" height="300px" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
   
 <div align="center">
  🔭 I’m currently working on My Portfolio website!
@@ -49,19 +49,4 @@
   📫 Reach me at <a href="mailto:jadoyahya@gmail.com">grahaugustin@gmail.com</a> OR <a href="mailto:dizerdev@gmail.com">augustingrah2@gmail.com</a>
 
 
-
-
-<h2>
-  mys last work
-</h2>
-  < a  href =" https://github.com/augustinCalibre/github-readme-stats " > 
-  < img  align =" center " src =" https://github-readme-stats.vercel.app/api/pin/ ?username=augustinCalibre&repo=github-readme-stats " />
- </ a > 
-< a  href =" https://github.com/augustinCalibre/convoychat " > 
-  < img  align =" center " src =" https://github -readme-stats.vercel.app/api/pin/?username=augustinCalibre&repo=convoychat " />
- </ a>
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=augustinCalibre&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=augustinCalibre&langs_count=5&theme=tokyonight)]()
 
