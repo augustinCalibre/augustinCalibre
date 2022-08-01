@@ -6,18 +6,7 @@
 <p align='center'>
 
 
-</p>
-<div size='20px'> Hi! My name is AugustinGRAH. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=augustinCalibre&label=Profile%20views&color=0e75b6&style=flat" alt="dizerx" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/18jad?label=Followers&style=social">
-  <img src="https://img.shields.io/github/stars/augustinCalibre?label=Stars" alt="Total Stars"> </p>
     
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=augustinCalibre" alt="18jad" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/Grahaugustin" target="blank"><img src="https://img.shields.io/twitter/follow/Grahaugustin0?logo=twitter&style=for-the-badge" alt="Augustin GRAH" /></a> </p>
-
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <img width="100%" height="300px" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
